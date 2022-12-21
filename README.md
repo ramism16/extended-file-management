@@ -1,2 +1,2 @@
 # extended-file-management
-DAA Semester project
+Python console application that provides some additional file and directory management operations.
